@@ -278,7 +278,7 @@ Adding small epsilon (1e-10) ensures we never take log(0).
 
 - `Federalist_Papers_Analysis.ipynb` - Complete analysis with code and visualizations
 - `federalist.csv` - Dataset containing all 85 papers with metadata
-- `discriminative_words.csv - For shortlisting the dicriminative words
+- `discriminative_words.csv` - For shortlisting the dicriminative words
 - `Readme.md` - This file
 - `Calculation_example.md` - Simplified calculation walkthrough
 
